@@ -1,0 +1,1 @@
+Implementação do algoritmo de colonia de formigas utilizando múltiplas threads.
